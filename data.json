@@ -1,0 +1,25 @@
+{
+    titulo": "Revista de partes de computadoras",
+    "articulos": [
+        {
+            "titulo": "Procesadores",
+            "imagen": "imagenes/procesador.jpg".
+            "contenido": 
+        },
+        {
+            "titulo": "tarjetas graficas",
+            "imagen": "imagenes/tarjeta-madre.jpg",
+            "contenido": ""
+        },
+        {
+            "titulo": "memoria RAM",
+            "imagen": "imagenes/memoria-ram.jpg",
+            "contenido": ""
+        },
+        {
+            "titulo": "Disco duro",
+            "imagen": "imagen/disco-duro.jpg",
+            "contenido": ""
+        }
+    }
+}
